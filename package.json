@@ -1,0 +1,22 @@
+{
+  "name": "angularchatbot",
+  "version": "1.0.0",
+  "description": "Angular Chat bot Using MEAN stack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvadher/angularChatBot.git"
+  },
+  "author": "Yagnik Vadher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvadher/angularChatBot/issues"
+  },
+  "homepage": "https://github.com/yvadher/angularChatBot#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
